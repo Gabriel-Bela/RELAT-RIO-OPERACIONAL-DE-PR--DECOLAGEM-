@@ -12,7 +12,7 @@ A IA também será responsável por fazer uma análise assistida do código, dos
 
 Instruções de uso:
 
-1) Para iniciar clicar primeiro em "Executar Tudo"![Inicio](assets/inicio.png)
+1) Para iniciar clicar primeiro em "Executar Tudo"! [Inicio](assets/inicio.png)
 
 2) Ao iniciar esse programa será solicitado inserir as variavéis (Temperatura interna e externa, integridade estrutural, níveis de energia, pressão dos tanques e status dos módulos críticos.)
 [Variáveis](assets/variáveis.png)
